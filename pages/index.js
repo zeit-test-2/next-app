@@ -34,7 +34,7 @@ function Index() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          This project
+          This zero config project
         </a>{' '}
         is a <a href="https://nextjs.org/">Next.js</a> app with two directories,{' '}
         <code>/static</code> for static content and <code>/pages</code> which
